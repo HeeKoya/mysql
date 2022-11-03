@@ -12,6 +12,7 @@ namespace GitHub
         {
             bool a = true;
             Console.WriteLine("SOME WORDS");
+
             if (a == true)
             {
                 Console.WriteLine("ACCESS");
@@ -20,6 +21,8 @@ namespace GitHub
             {
                 Console.WriteLine("DENIED");
             }
+
+        
         }
     }
 }
