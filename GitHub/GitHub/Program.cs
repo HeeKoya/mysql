@@ -10,7 +10,12 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
+            bool a = true;
             Console.WriteLine("SOME WORDS");
+            if (a == true)
+            {
+                Console.WriteLine("ACCESS");
+            }
         }
     }
 }
