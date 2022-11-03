@@ -10,7 +10,7 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
-            bool a = true;
+            bool a = false;
             Console.WriteLine("SOME WORDS");
 
             if (a == true)
@@ -21,7 +21,7 @@ namespace GitHub
             {
                 Console.WriteLine("DENIED");
             }
-            Console.WriteLine("DENIED");
+            
 
         }
     }
