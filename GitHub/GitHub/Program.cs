@@ -18,7 +18,7 @@ namespace GitHub
             }
             else
             {
-                Console.WriteLine("NO");
+                Console.WriteLine("DENIED");
             }
         }
     }
