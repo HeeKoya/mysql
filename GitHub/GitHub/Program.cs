@@ -17,10 +17,7 @@ namespace GitHub
             {
                 Console.WriteLine("ACCESS");
             }
-            else
-            {
-                Console.WriteLine("DENIED");
-            }
+
             
 
         }
