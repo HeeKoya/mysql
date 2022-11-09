@@ -19,9 +19,10 @@ namespace GitHub
             }
             else
             {
-                Console.ReadKey();
+                Console.WriteLine("DENIED");
             }
-            
+            Console.ReadKey();
+
 
         }
     }
