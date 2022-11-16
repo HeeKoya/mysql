@@ -9,7 +9,7 @@ namespace GitHub
     class Program
     {
         static void Main(string[] args)
-        {
+        { //VERSION 1.0
             bool a = true;
             Console.WriteLine("SOME WORDS");
 
@@ -21,6 +21,7 @@ namespace GitHub
             {
                 Console.WriteLine("DENIED");
             }
+            //updated in VERSION 1.1
             Console.WriteLine("ALL OKAY");
             
 
